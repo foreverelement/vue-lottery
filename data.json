@@ -1,0 +1,212 @@
+{
+	"lottreyNum": {
+		"num": 2
+	},
+	"lottreyGift": [{
+		"rank": 1,
+		"isCashGift": false,
+		"isObject": true,
+		"isError": false,
+		"name": "iPad air 2",
+		"image": "http://pic.ghs.net/public/images/05/9a/a0/f100f4b3abafe7b4d8f525d49e1691ade6a61dd0.jpg"
+	},
+	{
+		"rank": 2,
+		"isCashGift": false,
+		"isObject": true,
+		"isError": false,
+		"name": "ACA智能电烤箱ATO-AH10",
+		"image": "http://pic.ghs.net/public/images/90/bd/e3/9b9717e2fb4f2c5407aea08779df57c7c1f5e281.jpg"
+	},
+	{
+		"rank": 3,
+		"isCashGift": false,
+		"isObject": true,
+		"isError": false,
+		"name": "HILL-TOP厨房调理盆5件套",
+		"image": "http://pic.ghs.net/public/images/02/04/d8/7cd155136602251508443ccc45dd62801d8caaca.jpg"
+	},
+	{
+		"rank": 4,
+		"isCashGift": true,
+		"isObject": false,
+		"isError": false,
+		"name": "10",
+		"image": ""
+	},
+	{
+		"rank": 5,
+		"isCashGift": true,
+		"isObject": false,
+		"isError": false,
+		"name": "7",
+		"image": ""
+	},
+	{
+		"rank": 6,
+		"isCashGift": true,
+		"isObject": false,
+		"isError": false,
+		"name": "5",
+		"image": ""
+	},
+	{
+		"rank": 7,
+		"isCashGift": true,
+		"isObject": false,
+		"isError": false,
+		"name": "3",
+		"image": ""
+	},
+	{
+		"rank": 0,
+		"isCashGift": false,
+		"isObject": false,
+		"isError": true,
+		"name": "error",
+		"image": ""
+	}],
+	"goods": [
+		{
+			"id":"9127018",
+			"link":"http://wap.ghs.net/wap/product-9127018.html",
+			"image":"http://pic.ghs.net/public/images/76/d0/0a/940da9bfc9dbb4ed0574c7f85833ce493076397e.jpg",
+			"name":"法国芭斯寇城堡干红葡萄酒*6",
+			"salePrice":"594.00",
+			"price":"990.00"
+		},
+		{
+			"id":"9120955",
+			"link":"http://wap.ghs.net/wap/product-9120955.html",
+			"image":"http://pic.ghs.net/public/images/87/df/73/a27620b8c582e2b569445e40cad862b9b77a3a5b.jpg",
+			"name":"法国老藤歌海娜干红葡萄酒",
+			"salePrice":"202.00",
+			"price":"288.00"
+		},
+		{
+			"id":"9120963",
+			"link":"http://wap.ghs.net/wap/product-9120963.html",
+			"image":"http://pic.ghs.net/public/images/14/5d/d8/de79ee5e6bcccad43417e35d22b749e104c030d1.jpg",
+			"name":"智利蒙特斯经典组合装12瓶",
+			"salePrice":"630.00",
+			"price":"899.00"
+		},
+		{
+			"id":"9120956",
+			"link":"http://wap.ghs.net/wap/product-9120956.html",
+			"image":"http://pic.ghs.net/public/images/23/59/9b/c69bca9ce5870fb240ffcf76e7b5a5d926076b25.jpg",
+			"name":"南非大洋梅乐干红葡萄酒*6",
+			"salePrice":"476.00",
+			"price":"680.00"
+		},
+		{
+			"id":"9125021",
+			"link":"http://wap.ghs.net/wap/product-9125021.html",
+			"image":"http://pic.ghs.net/public/images/cc/74/d2/4c565ecc466c69d961b8f0854c327252e5effb55.jpg",
+			"name":"兰博基尼腕表4840",
+			"salePrice":"7770.00",
+			"price":"11099.00"
+		},
+		{
+			"id":"9121870",
+			"link":"http://wap.ghs.net/wap/product-9121870.html",
+			"image":"http://pic.ghs.net/public/images/7c/ae/7d/9c9706f0044d7e9de806bf12b3e88908a8581b9d.jpg",
+			"name":"喜又美复合益生菌固体饮料",
+			"salePrice":"239.00",
+			"price":"298.00"
+		},
+		{
+			"id":"9120791",
+			"link":"http://wap.ghs.net/wap/product-9120791.html",
+			"image":"http://pic.ghs.net/public/images/e2/1f/b2/6303741a2326f8cc3fd5c1a38bb4c14b1ef590d5.jpg",
+			"name":"马来西亚正典原盏浓缩燕窝8瓶",
+			"salePrice":"800.00",
+			"price":"999.00"
+		},
+		{
+			"id":"9121242",
+			"link":"http://wap.ghs.net/wap/product-9121242.html",
+			"image":"http://pic.ghs.net/public/images/33/d8/be/f52b3ac3808952460776326a3d6df730e74855b1.jpg",
+			"name":"ileven每日坚果6盒180袋",
+			"salePrice":"432.00",
+			"price":"540.00"
+		},
+		{
+			"id":"9121109",
+			"link":"http://wap.ghs.net/wap/product-9121109.html","image":"http://pic.ghs.net/public/images/a2/4d/23/cc99de79d145c9f341835dc8a959227c2ce92265.jpg",
+			"name":"福库电烤盘CG-131M",
+			"salePrice":"880.00",
+			"price":"1100.00"
+		},
+		{
+			"id":"9116995",
+			"link":"http://wap.ghs.net/wap/product-9116995.html",
+			"image":"http://pic.ghs.net/public/images/fe/04/7f/ff67ae99583d204b552e3f67f61a768dd2d851a4.jpg",
+			"name":"PALLASKR彩钻技不粘锅四件套",
+			"salePrice":"400.00",
+			"price":"499.00"
+		},
+		{
+			"id":"9122378",
+			"link":"http://wap.ghs.net/wap/product-9122378.html",
+			"image":"http://pic.ghs.net/public/images/2a/65/cc/59052baccab5a54aee4eb1a71036ebf2a40649dd.jpg",
+			"name":"惠而浦原汁机JM121J",
+			"salePrice":"1360.00",
+			"price":"1699.00"
+		},
+		{
+			"id":"9127731",
+			"link":"http://wap.ghs.net/wap/product-9127731.html",
+			"image":"http://pic.ghs.net/public/images/51/fe/bd/021dcf57bca67c18474ef5dbf5552158022edea6.jpg",
+			"name":"汉美驰破壁机58912-CN",
+			"salePrice":"3184.00",
+			"price":"3980.00"
+		},
+		{
+			"id":"9126360",
+			"link":"http://wap.ghs.net/wap/product-9126360.html",
+			"image":"http://pic.ghs.net/public/images/2f/de/11/fb4f88d226cc918b3a77f6ebaa3447a77c4ba849.jpg",
+			"name":"美国健安喜叶黄素软胶囊2瓶【缓解眼疲劳 增进视力】 ",
+			"salePrice":"216.00","price":"240.00"
+		},
+		{
+			"id":"9126361",
+			"link":"http://wap.ghs.net/wap/product-9126361.html",
+			"image":"http://pic.ghs.net/public/images/3c/ad/ea/9a6828a735cfcb3e0a53bcf65a89ff9211898a5c.jpg",
+			"name":"美国健安喜维骨力240片 ",
+			"salePrice":"315.00",
+			"price":"349.00"
+		},
+		{
+			"id":"9126369",
+			"link":"http://wap.ghs.net/wap/product-9126369.html",
+			"image":"http://pic.ghs.net/public/images/16/af/3f/b325048b78e8b4d10ebbab3e6c480edb8fa7af0c.jpg",
+			"name":"澳佳宝深海鱼油胶囊400粒*3瓶",
+			"salePrice":"414.00",
+			"price":"460.00"
+		},
+		{
+			"id":"9120682",
+			"link":"http://wap.ghs.net/wap/product-9120682.html",
+			"image":"http://pic.ghs.net/public/images/70/c4/04/8384c3cf55ae09c2adf0732db2b7df8adf3ad0a9.jpg",
+			"name":"小狗高端卧式吸尘器D9001",
+			"salePrice":"1710.00",
+			"price":"1899.00"
+		},
+		{
+			"id":"9121266",
+			"link":"http://wap.ghs.net/wap/product-9121266.html",
+			"image":"http://pic.ghs.net/public/images/04/e0/1c/0249c20a19bc5d1b952f0f6a8034c0792506c0a8.jpg",
+			"name":"SWKD智能无线擦地机",
+			"salePrice":"720.00",
+			"price":"799.00"
+		},
+		{
+			"id":"9130568",
+			"link":"http://wap.ghs.net/wap/product-9130568.html","image":"http://pic.ghs.net/public/images/dd/3c/60/2716bae9fedb830db72b72c6b5d9878826822f6a.jpg",
+			"name":"保食安食品净化机J806",
+			"salePrice":"5382.00",
+			"price":"5980.00"
+		}
+	]
+}
